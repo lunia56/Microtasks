@@ -11,3 +11,6 @@
 
   width: 100px;
 }
+.App > hr {
+  font-width: 3px;
+}
